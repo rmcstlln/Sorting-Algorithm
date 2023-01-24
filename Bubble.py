@@ -9,3 +9,5 @@ def bubbleSort(array):
 
 
 array = [40, 97, 41, 3, 6, 79, 7, 62, 83, 91]
+bubbleSort(array)
+print(array)
