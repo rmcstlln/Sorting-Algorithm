@@ -26,3 +26,5 @@ def partition(array, left, right):
 
 
 array = [40, 97, 41, 3, 6, 79, 7, 62, 83, 91]
+quickSort(array, 0, len(array) - 1)
+print(array)
